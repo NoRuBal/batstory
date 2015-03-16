@@ -1,0 +1,8 @@
+378
+184
+0
+0
+m:133:426:225:7:up:100:stage/4/boss_block.png:up
+m:311:426:225:7:up:100:stage/4/boss_block.png:up
+m:489:426:225:7:up:100:stage/4/boss_block.png:up
+m:667:426:225:7:up:100:stage/4/boss_block.png:up

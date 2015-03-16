@@ -1,0 +1,52 @@
+[HISTORY]
+2014.03.16
+Cutscene[4-5] start
+Cutscene[4-5] ending
+BOSS BATTLE
+Cutscene credits
+
+2014.03.15
+Level design 4-4
+
+2014.03.13
+Level design 4-1..4-3
+
+2014.03.12
+Cutscene[3-5]
+
+2014.03.11
+Blinking objects
+Level design 3-5
+
+2014.03.10
+Level desing 3-3..3-4
+Rotating objects
+
+2014.03.08
+Level design 2-3..2-5
+Cutscene[2-5]
+Moving objects
+Level design 3-1..3-2
+
+2014.03.07
+Fix code: to use canvas
+
+2014.03.06
+Level design 2-1..2-2
+
+2014.03.05
+Cutscene[Opening]
+Cutscene[1-5]
+Level design 3-1..3-2
+
+2014.03.04
+Level design 1-1..1-5
+Saving/Loading clear data
+
+2014.03.03
+Description of stage 1
+
+2014.03.02
+Title scene, stage select scene
+Load stage file by pressing key
+Draw goal
